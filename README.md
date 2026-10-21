@@ -35,7 +35,9 @@
 
 ## Sharing/Access and Policies Information  
 
-**Licenses/restrictions placed on the data:** This document is disseminated under the sponsorship of the U.S. Department of Transportation in the interest of information exchange. The United States Government assumes no liability for the contents thereof. To protect the privacy of subject participants and conform to the restrictions of the Institutional Review Board, raw and individual-level data will not be made available.  
+**Licenses/restrictions placed on the data:** This document is disseminated under the sponsorship of the U.S. Department of Transportation in the interest of information exchange. The United States Government assumes no liability for the contents thereof. To protect the privacy of subject participants and conform to the restrictions of the Institutional Review Board, raw and individual-level data will not be made available. 
+
+Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
 
 **Was data derived from another source?:** `Yes`  
 
